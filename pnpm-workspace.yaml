@@ -57,7 +57,7 @@ catalog:
   date-fns-jalali: ^4.1.0-0
   dayjs: ^1.11.23
   es-toolkit: ^1.52.0
-  execa: 10.1.0
+  execa: 10.1.1
   jscodeshift: 17.4.0
   jsdom: 30.1.2
   luxon: ^3.7.2
@@ -126,4 +126,4 @@ overrides:
   # Pin the version otherwise emotion uses its own version resulting in docs build error
   # @TODO: Debug a fix separately and remove the override
   stylis: ^4.4.0
-  caniuse-lite: ^1.0.30001815
+  caniuse-lite: ^1.0.30001816
